@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  color: black;
+  background-color: rgba(63, 21, 103, 0.721);
+  padding: 1% 0 3% 0;
+  /* padding-bottom: 3%; */
+  font-size: xx-large;
+  font-weight: 800;
+}
